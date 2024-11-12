@@ -10,3 +10,6 @@
 var x= 10;
 console.log("YOLO");
 ```
+- [x] Turn on the CODE
+- [ ] Outline my portfolio
+- [x] Introduce myself to the world
